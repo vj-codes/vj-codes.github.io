@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "vj-codes.github.io/static/css/main.3530bcfd.chunk.css",
+    "main.js": "vj-codes.github.io/static/js/main.da954685.chunk.js",
+    "main.js.map": "vj-codes.github.io/static/js/main.da954685.chunk.js.map",
+    "runtime-main.js": "vj-codes.github.io/static/js/runtime-main.9763c4cd.js",
+    "runtime-main.js.map": "vj-codes.github.io/static/js/runtime-main.9763c4cd.js.map",
+    "static/js/2.581d2dfc.chunk.js": "vj-codes.github.io/static/js/2.581d2dfc.chunk.js",
+    "static/js/2.581d2dfc.chunk.js.map": "vj-codes.github.io/static/js/2.581d2dfc.chunk.js.map",
+    "index.html": "vj-codes.github.io/index.html",
+    "precache-manifest.ba5a9f477f92e25dffcf208684ed75e5.js": "vj-codes.github.io/precache-manifest.ba5a9f477f92e25dffcf208684ed75e5.js",
+    "service-worker.js": "vj-codes.github.io/service-worker.js",
+    "static/css/main.3530bcfd.chunk.css.map": "vj-codes.github.io/static/css/main.3530bcfd.chunk.css.map",
+    "static/media/index.css": "vj-codes.github.io/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/IntroHome.svg": "vj-codes.github.io/static/media/IntroHome.b175cf58.svg",
+    "static/media/anitab_logo.png": "vj-codes.github.io/static/media/anitab_logo.05212119.png",
+    "static/media/cisce-logo.png": "vj-codes.github.io/static/media/cisce-logo.fbb4a7f9.png",
+    "static/media/codeInLogo.png": "vj-codes.github.io/static/media/codeInLogo.b3685be8.png",
+    "static/media/coderImg.svg": "vj-codes.github.io/static/media/coderImg.9ac60225.svg",
+    "static/media/education.svg": "vj-codes.github.io/static/media/education.9fde48d0.svg",
+    "static/media/experience.svg": "vj-codes.github.io/static/media/experience.64f28575.svg",
+    "static/media/all.css": "vj-codes.github.io/static/media/fa-solid-900.8e4a6dcc.eot",
+    "static/media/fb-logo.png": "vj-codes.github.io/static/media/fb-logo.192c18c1.png",
+    "static/media/github_logo.png": "vj-codes.github.io/static/media/github_logo.e64de169.png",
+    "static/media/hsc-logo.png": "vj-codes.github.io/static/media/hsc-logo.b5c36e65.png",
+    "static/media/icse_logo.jpg": "vj-codes.github.io/static/media/icse_logo.dc5b7aad.jpg",
+    "static/media/iitb_logo.png": "vj-codes.github.io/static/media/iitb_logo.2f377df2.png",
+    "static/media/intel_logo.jpg": "vj-codes.github.io/static/media/intel_logo.29152cf7.jpg",
+    "static/media/jsFramework.svg": "vj-codes.github.io/static/media/jsFramework.b05ae5b5.svg",
+    "static/media/profile.png": "vj-codes.github.io/static/media/profile.d0f8d2a4.png",
+    "static/media/ui_ux_design.svg": "vj-codes.github.io/static/media/ui_ux_design.67a6a11c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9763c4cd.js",
+    "static/js/2.581d2dfc.chunk.js",
+    "static/css/main.3530bcfd.chunk.css",
+    "static/js/main.da954685.chunk.js"
+  ]
+}

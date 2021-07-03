@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "vj-codes.github.io",
-  "homepage": "vj-codes.github.io/",
+  "homepage": "https://vj-codes.github.io/",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",

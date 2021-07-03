@@ -1,0 +1,69 @@
+{
+  "data": [
+    {
+      "login": "dogecoin",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6122353?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "anitab-org",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/47870548?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "fossasia",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6295529?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "freeCodeCamp",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9892522?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "ethereum",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6250754?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "firstcontributions",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/37713493?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "fbdevelopercircles",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/38020791?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "Netflix",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/913567?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "devcpune",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/58566991?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "EddieHubCommunity",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/66388388?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "nimbella",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/53306412?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "appwrite",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/25003669?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "education",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6667880?v=4",
+      "__typename": "Organization"
+    }
+  ]
+}

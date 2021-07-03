@@ -1,0 +1,1587 @@
+{
+  "closed": 19,
+  "data": [
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0Njc5MDc4MTA5",
+      "title": "added 2FA auth",
+      "url": "https://github.com/vj-codes/Two-factor-Authentication-Flask/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/60894542?u=277d0c0cb856578fb26ce4f9b572bb55b14c03e8&v=4",
+        "url": "https://github.com/vj-codes",
+        "login": "vj-codes"
+      },
+      "createdAt": "2021-06-28T14:03:55Z",
+      "number": 1,
+      "changedFiles": 3,
+      "additions": 182,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Two-factor-Authentication-Flask",
+        "url": "https://github.com/vj-codes/Two-factor-Authentication-Flask",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60894542?u=277d0c0cb856578fb26ce4f9b572bb55b14c03e8&v=4",
+          "login": "vj-codes",
+          "url": "https://github.com/vj-codes"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjczOTg0OTkz",
+      "title": "Updated organization name in docusaurus config",
+      "url": "https://github.com/anitab-org/bridge-in-tech-backend/pull/292",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/29667122?u=79fd6011a482bde9094697b9d7b3e4a460df6574&v=4",
+        "url": "https://github.com/mtreacy002",
+        "login": "mtreacy002"
+      },
+      "createdAt": "2021-06-20T06:53:37Z",
+      "number": 292,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "bridge-in-tech-backend",
+        "url": "https://github.com/anitab-org/bridge-in-tech-backend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/47870548?v=4",
+          "login": "anitab-org",
+          "url": "https://github.com/anitab-org"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjY1NTI1MDU2",
+      "title": "refactor: updated all systers references",
+      "url": "https://github.com/anitab-org/mentorship-android/pull/1146",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2021-06-09T04:04:02Z",
+      "number": 1146,
+      "changedFiles": 105,
+      "additions": 377,
+      "deletions": 377,
+      "baseRepository": {
+        "name": "mentorship-android",
+        "url": "https://github.com/anitab-org/mentorship-android",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/47870548?v=4",
+          "login": "anitab-org",
+          "url": "https://github.com/anitab-org"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjYzODE5MTA5",
+      "title": "Added CONTRIBUTING.md ",
+      "url": "https://github.com/dogecoin/dogecoin.com/pull/275",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2021-06-07T18:39:06Z",
+      "number": 275,
+      "changedFiles": 1,
+      "additions": 66,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "dogecoin.com",
+        "url": "https://github.com/dogecoin/dogecoin.com",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/6122353?v=4",
+          "login": "dogecoin",
+          "url": "https://github.com/dogecoin"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjUxMTE5NDU5",
+      "title": "chore: improved GitHub actions",
+      "url": "https://github.com/Netflix/dispatch/pull/1221",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/2262214?u=d84b02fd84149cadcdf813f41533a9d60c205b21&v=4",
+        "url": "https://github.com/kevgliss",
+        "login": "kevgliss"
+      },
+      "createdAt": "2021-05-24T08:06:29Z",
+      "number": 1221,
+      "changedFiles": 1,
+      "additions": 8,
+      "deletions": 4,
+      "baseRepository": {
+        "name": "dispatch",
+        "url": "https://github.com/Netflix/dispatch",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/913567?v=4",
+          "login": "Netflix",
+          "url": "https://github.com/Netflix"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjQzODQ0MDkz",
+      "title": "created vj-codes",
+      "url": "https://github.com/education/GitHubGraduation-2021/pull/8041",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2021-05-13T09:38:01Z",
+      "number": 8041,
+      "changedFiles": 1,
+      "additions": 6,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "GitHubGraduation-2021",
+        "url": "https://github.com/education/GitHubGraduation-2021",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/6667880?v=4",
+          "login": "education",
+          "url": "https://github.com/education"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjM4MjY2ODMz",
+      "title": "added marathi translation",
+      "url": "https://github.com/dogecoin/dogecoin.com/pull/189",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/5160000?v=4",
+        "url": "https://github.com/langerhans",
+        "login": "langerhans"
+      },
+      "createdAt": "2021-05-10T19:18:08Z",
+      "number": 189,
+      "changedFiles": 5,
+      "additions": 272,
+      "deletions": 3,
+      "baseRepository": {
+        "name": "dogecoin.com",
+        "url": "https://github.com/dogecoin/dogecoin.com",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/6122353?v=4",
+          "login": "dogecoin",
+          "url": "https://github.com/dogecoin"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjM0NzY1MzIw",
+      "title": "chore: deployed documentation to gh pages",
+      "url": "https://github.com/anitab-org/bridge-in-tech-backend/pull/280",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/29667122?u=79fd6011a482bde9094697b9d7b3e4a460df6574&v=4",
+        "url": "https://github.com/mtreacy002",
+        "login": "mtreacy002"
+      },
+      "createdAt": "2021-05-08T18:38:18Z",
+      "number": 280,
+      "changedFiles": 3,
+      "additions": 78,
+      "deletions": 4,
+      "baseRepository": {
+        "name": "bridge-in-tech-backend",
+        "url": "https://github.com/anitab-org/bridge-in-tech-backend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/47870548?v=4",
+          "login": "anitab-org",
+          "url": "https://github.com/anitab-org"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjI4NjM2NDQ5",
+      "title": "chore: improved github actions",
+      "url": "https://github.com/anitab-org/bridge-in-tech-backend/pull/276",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/29667122?u=79fd6011a482bde9094697b9d7b3e4a460df6574&v=4",
+        "url": "https://github.com/mtreacy002",
+        "login": "mtreacy002"
+      },
+      "createdAt": "2021-05-02T16:18:16Z",
+      "number": 276,
+      "changedFiles": 2,
+      "additions": 22,
+      "deletions": 29,
+      "baseRepository": {
+        "name": "bridge-in-tech-backend",
+        "url": "https://github.com/anitab-org/bridge-in-tech-backend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/47870548?v=4",
+          "login": "anitab-org",
+          "url": "https://github.com/anitab-org"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjIzNDcxOTUz",
+      "title": "chore:improved github actions to use a matrix",
+      "url": "https://github.com/anitab-org/mentorship-backend/pull/1079",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/11148726?u=aae052442d7b1c749bc1c96c54bdb792c68c9840&v=4",
+        "url": "https://github.com/isabelcosta",
+        "login": "isabelcosta"
+      },
+      "createdAt": "2021-04-26T16:03:08Z",
+      "number": 1079,
+      "changedFiles": 2,
+      "additions": 17,
+      "deletions": 13,
+      "baseRepository": {
+        "name": "mentorship-backend",
+        "url": "https://github.com/anitab-org/mentorship-backend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/47870548?v=4",
+          "login": "anitab-org",
+          "url": "https://github.com/anitab-org"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjIwNTU0ODgz",
+      "title": "chore:improved github actions",
+      "url": "https://github.com/anitab-org/bridge-in-tech-backend/pull/269",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2021-04-21T21:04:42Z",
+      "number": 269,
+      "changedFiles": 3,
+      "additions": 22,
+      "deletions": 28,
+      "baseRepository": {
+        "name": "bridge-in-tech-backend",
+        "url": "https://github.com/anitab-org/bridge-in-tech-backend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/47870548?v=4",
+          "login": "anitab-org",
+          "url": "https://github.com/anitab-org"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjE3NTU4OTIz",
+      "title": "chore : added poetry for package management ",
+      "url": "https://github.com/anitab-org/mentorship-backend/pull/1077",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2021-04-18T21:29:12Z",
+      "number": 1077,
+      "changedFiles": 6,
+      "additions": 1017,
+      "deletions": 93,
+      "baseRepository": {
+        "name": "mentorship-backend",
+        "url": "https://github.com/anitab-org/mentorship-backend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/47870548?v=4",
+          "login": "anitab-org",
+          "url": "https://github.com/anitab-org"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjE3MzE4MTQ2",
+      "title": "fix: removed easter egg surprise from login.js",
+      "url": "https://github.com/appwrite/demo-todo-with-react/pull/7",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/20852629?u=ef497640814f4e3f2ce440ee0af8101a7fc222ac&v=4",
+        "url": "https://github.com/christyjacob4",
+        "login": "christyjacob4"
+      },
+      "createdAt": "2021-04-17T14:49:31Z",
+      "number": 7,
+      "changedFiles": 1,
+      "additions": 0,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "demo-todo-with-react",
+        "url": "https://github.com/appwrite/demo-todo-with-react",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/25003669?v=4",
+          "login": "appwrite",
+          "url": "https://github.com/appwrite"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjEzMzY1MzIx",
+      "title": "chore:improved github actions",
+      "url": "https://github.com/anitab-org/mentorship-backend/pull/1071",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/11148726?u=aae052442d7b1c749bc1c96c54bdb792c68c9840&v=4",
+        "url": "https://github.com/isabelcosta",
+        "login": "isabelcosta"
+      },
+      "createdAt": "2021-04-12T07:49:38Z",
+      "number": 1071,
+      "changedFiles": 2,
+      "additions": 12,
+      "deletions": 20,
+      "baseRepository": {
+        "name": "mentorship-backend",
+        "url": "https://github.com/anitab-org/mentorship-backend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/47870548?v=4",
+          "login": "anitab-org",
+          "url": "https://github.com/anitab-org"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjEwOTQwNTgx",
+      "title": "fix: replaced request_id with relation_id in tasks",
+      "url": "https://github.com/anitab-org/mentorship-backend/pull/1069",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2021-04-07T19:23:21Z",
+      "number": 1069,
+      "changedFiles": 2,
+      "additions": 17,
+      "deletions": 17,
+      "baseRepository": {
+        "name": "mentorship-backend",
+        "url": "https://github.com/anitab-org/mentorship-backend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/47870548?v=4",
+          "login": "anitab-org",
+          "url": "https://github.com/anitab-org"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjA4NTIxODAw",
+      "title": "chore : added black and black's github action to format the code",
+      "url": "https://github.com/anitab-org/bridge-in-tech-backend/pull/255",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/29667122?u=79fd6011a482bde9094697b9d7b3e4a460df6574&v=4",
+        "url": "https://github.com/mtreacy002",
+        "login": "mtreacy002"
+      },
+      "createdAt": "2021-04-04T10:13:39Z",
+      "number": 255,
+      "changedFiles": 54,
+      "additions": 2875,
+      "deletions": 1946,
+      "baseRepository": {
+        "name": "bridge-in-tech-backend",
+        "url": "https://github.com/anitab-org/bridge-in-tech-backend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/47870548?v=4",
+          "login": "anitab-org",
+          "url": "https://github.com/anitab-org"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjAzMDI4MDg3",
+      "title": "Gh bit",
+      "url": "https://github.com/vj-codes/bridge-in-tech-backend/pull/1",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2021-03-29T18:39:33Z",
+      "number": 1,
+      "changedFiles": 3,
+      "additions": 63,
+      "deletions": 32,
+      "baseRepository": {
+        "name": "bridge-in-tech-backend",
+        "url": "https://github.com/vj-codes/bridge-in-tech-backend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/60894542?u=277d0c0cb856578fb26ce4f9b572bb55b14c03e8&v=4",
+          "login": "vj-codes",
+          "url": "https://github.com/vj-codes"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTk4Mjg5MjA1",
+      "title": "Fix: refactor HTTP error codes PUT /mentorship_relation/{request_id}/task/{task_id}/complete",
+      "url": "https://github.com/anitab-org/mentorship-backend/pull/1050",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/11148726?u=aae052442d7b1c749bc1c96c54bdb792c68c9840&v=4",
+        "url": "https://github.com/isabelcosta",
+        "login": "isabelcosta"
+      },
+      "createdAt": "2021-03-22T19:36:11Z",
+      "number": 1050,
+      "changedFiles": 3,
+      "additions": 3,
+      "deletions": 3,
+      "baseRepository": {
+        "name": "mentorship-backend",
+        "url": "https://github.com/anitab-org/mentorship-backend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/47870548?v=4",
+          "login": "anitab-org",
+          "url": "https://github.com/anitab-org"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTkwNzYzMjgw",
+      "title": "chore : migrated to github actions and removed travis ci",
+      "url": "https://github.com/anitab-org/bridge-in-tech-backend/pull/214",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/29667122?u=79fd6011a482bde9094697b9d7b3e4a460df6574&v=4",
+        "url": "https://github.com/mtreacy002",
+        "login": "mtreacy002"
+      },
+      "createdAt": "2021-03-11T10:50:06Z",
+      "number": 214,
+      "changedFiles": 3,
+      "additions": 63,
+      "deletions": 32,
+      "baseRepository": {
+        "name": "bridge-in-tech-backend",
+        "url": "https://github.com/anitab-org/bridge-in-tech-backend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/47870548?v=4",
+          "login": "anitab-org",
+          "url": "https://github.com/anitab-org"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTc3MTM2OTEy",
+      "title": "added resource in readme by numfocus",
+      "url": "https://github.com/freeCodeCamp/how-to-contribute-to-open-source/pull/531",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/2754821?u=54e1cb2d18128defe85662ffded3a224e56adf88&v=4",
+        "url": "https://github.com/erictleung",
+        "login": "erictleung"
+      },
+      "createdAt": "2021-02-21T16:15:17Z",
+      "number": 531,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "how-to-contribute-to-open-source",
+        "url": "https://github.com/freeCodeCamp/how-to-contribute-to-open-source",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/9892522?v=4",
+          "login": "freeCodeCamp",
+          "url": "https://github.com/freeCodeCamp"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTczMTUzNzM4",
+      "title": "chore : added black and black's github action to format the code",
+      "url": "https://github.com/anitab-org/bridge-in-tech-backend/pull/191",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2021-02-14T20:56:59Z",
+      "number": 191,
+      "changedFiles": 53,
+      "additions": 2859,
+      "deletions": 1955,
+      "baseRepository": {
+        "name": "bridge-in-tech-backend",
+        "url": "https://github.com/anitab-org/bridge-in-tech-backend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/47870548?v=4",
+          "login": "anitab-org",
+          "url": "https://github.com/anitab-org"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTY0NjQ2ODQ5",
+      "title": "Fix: refactor HTTP error codes PUT /mentorship_relation/{request_id}/cancel",
+      "url": "https://github.com/anitab-org/mentorship-backend/pull/991",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/11148726?u=aae052442d7b1c749bc1c96c54bdb792c68c9840&v=4",
+        "url": "https://github.com/isabelcosta",
+        "login": "isabelcosta"
+      },
+      "createdAt": "2021-01-31T12:31:57Z",
+      "number": 991,
+      "changedFiles": 4,
+      "additions": 8,
+      "deletions": 8,
+      "baseRepository": {
+        "name": "mentorship-backend",
+        "url": "https://github.com/anitab-org/mentorship-backend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/47870548?v=4",
+          "login": "anitab-org",
+          "url": "https://github.com/anitab-org"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk2NDg2NzQx",
+      "title": "Added 3 cat gifs",
+      "url": "https://github.com/andrejarrell/CatGifs/pull/21",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/33952641?u=1bed8ae25e4116bc59010b404931ba6cdfab0d88&v=4",
+        "url": "https://github.com/andrejarrell",
+        "login": "andrejarrell"
+      },
+      "createdAt": "2020-10-01T19:10:54Z",
+      "number": 21,
+      "changedFiles": 1,
+      "additions": 5,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "CatGifs",
+        "url": "https://github.com/andrejarrell/CatGifs",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/33952641?u=1bed8ae25e4116bc59010b404931ba6cdfab0d88&v=4",
+          "login": "andrejarrell",
+          "url": "https://github.com/andrejarrell"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk2MjU4MjU2",
+      "title": "WIP : updating english to hindi translation",
+      "url": "https://github.com/fossasia/open-event-server/pull/7310",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2020-10-01T13:25:38Z",
+      "number": 7310,
+      "changedFiles": 1,
+      "additions": 152,
+      "deletions": 151,
+      "baseRepository": {
+        "name": "open-event-server",
+        "url": "https://github.com/fossasia/open-event-server",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/6295529?v=4",
+          "login": "fossasia",
+          "url": "https://github.com/fossasia"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk2MDUzMjgw",
+      "title": "docs: updated setup instructions",
+      "url": "https://github.com/anitab-org/bridge-in-tech-backend/pull/164",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/29667122?u=79fd6011a482bde9094697b9d7b3e4a460df6574&v=4",
+        "url": "https://github.com/mtreacy002",
+        "login": "mtreacy002"
+      },
+      "createdAt": "2020-10-01T08:01:33Z",
+      "number": 164,
+      "changedFiles": 1,
+      "additions": 12,
+      "deletions": 5,
+      "baseRepository": {
+        "name": "bridge-in-tech-backend",
+        "url": "https://github.com/anitab-org/bridge-in-tech-backend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/47870548?v=4",
+          "login": "anitab-org",
+          "url": "https://github.com/anitab-org"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk1OTk5NzYy",
+      "title": "Updated spelling mistake",
+      "url": "https://github.com/fossasia/codeheat.org/pull/278",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/1583873?u=65085778ea42f750e5cb1aa1402542cb011baac3&v=4",
+        "url": "https://github.com/mariobehling",
+        "login": "mariobehling"
+      },
+      "createdAt": "2020-10-01T06:32:04Z",
+      "number": 278,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "codeheat.org",
+        "url": "https://github.com/fossasia/codeheat.org",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/6295529?v=4",
+          "login": "fossasia",
+          "url": "https://github.com/fossasia"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDk1NzQxMTc2",
+      "title": "Added gyarados",
+      "url": "https://github.com/AM1CODES/Poke-Dex/pull/49",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/52394145?u=e0dc7581551f2f8eb18519129602a8a167768831&v=4",
+        "url": "https://github.com/AM1CODES",
+        "login": "AM1CODES"
+      },
+      "createdAt": "2020-09-30T19:36:38Z",
+      "number": 49,
+      "changedFiles": 1,
+      "additions": 12,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "Poke-Dex",
+        "url": "https://github.com/AM1CODES/Poke-Dex",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/52394145?u=e0dc7581551f2f8eb18519129602a8a167768831&v=4",
+          "login": "AM1CODES",
+          "url": "https://github.com/AM1CODES"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDkzMzU5MDU4",
+      "title": "fix: updated tags ,logo and link from Systers to AnitaB.org",
+      "url": "https://github.com/firstcontributions/firstcontributions.github.io/pull/142",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/8488446?u=e420a14524b2dd93ba8d5cd9709ff8b7cb9002df&v=4",
+        "url": "https://github.com/Roshanjossey",
+        "login": "Roshanjossey"
+      },
+      "createdAt": "2020-09-25T20:38:39Z",
+      "number": 142,
+      "changedFiles": 1,
+      "additions": 4,
+      "deletions": 4,
+      "baseRepository": {
+        "name": "firstcontributions.github.io",
+        "url": "https://github.com/firstcontributions/firstcontributions.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/37713493?v=4",
+          "login": "firstcontributions",
+          "url": "https://github.com/firstcontributions"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDkzMzUxMjQ2",
+      "title": "style : redesigned settings screen",
+      "url": "https://github.com/anitab-org/mentorship-android/pull/975",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2020-09-25T20:20:44Z",
+      "number": 975,
+      "changedFiles": 1,
+      "additions": 4,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "mentorship-android",
+        "url": "https://github.com/anitab-org/mentorship-android",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/47870548?v=4",
+          "login": "anitab-org",
+          "url": "https://github.com/anitab-org"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDkzMDUzMTc0",
+      "title": "[WIP] refactor: mentorship relation file to isolate task and comments resources",
+      "url": "https://github.com/anitab-org/mentorship-backend/pull/893",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2020-09-25T12:56:08Z",
+      "number": 893,
+      "changedFiles": 8,
+      "additions": 480,
+      "deletions": 412,
+      "baseRepository": {
+        "name": "mentorship-backend",
+        "url": "https://github.com/anitab-org/mentorship-backend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/47870548?v=4",
+          "login": "anitab-org",
+          "url": "https://github.com/anitab-org"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDg5MzQxODc0",
+      "title": "style : redesigned profile/edit profile screen",
+      "url": "https://github.com/anitab-org/mentorship-android/pull/928",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2020-09-18T14:10:26Z",
+      "number": 928,
+      "changedFiles": 1,
+      "additions": 11,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "mentorship-android",
+        "url": "https://github.com/anitab-org/mentorship-android",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/47870548?v=4",
+          "login": "anitab-org",
+          "url": "https://github.com/anitab-org"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDg4MTI4NzI4",
+      "title": "style: redesigned profile/edit profile screen",
+      "url": "https://github.com/anitab-org/mentorship-android/pull/916",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2020-09-16T17:11:35Z",
+      "number": 916,
+      "changedFiles": 1,
+      "additions": 11,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "mentorship-android",
+        "url": "https://github.com/anitab-org/mentorship-android",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/47870548?v=4",
+          "login": "anitab-org",
+          "url": "https://github.com/anitab-org"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDg2MDA3MTAw",
+      "title": "style: redesigned members screen",
+      "url": "https://github.com/anitab-org/mentorship-android/pull/896",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2020-09-12T19:53:08Z",
+      "number": 896,
+      "changedFiles": 1,
+      "additions": 7,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "mentorship-android",
+        "url": "https://github.com/anitab-org/mentorship-android",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/47870548?v=4",
+          "login": "anitab-org",
+          "url": "https://github.com/anitab-org"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDgwODc1NzE0",
+      "title": "docs: performed accessibility problems",
+      "url": "https://github.com/anitab-org/mentorship-android/pull/863",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2020-09-06T19:58:20Z",
+      "number": 863,
+      "changedFiles": 1,
+      "additions": 31,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "mentorship-android",
+        "url": "https://github.com/anitab-org/mentorship-android",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/47870548?v=4",
+          "login": "anitab-org",
+          "url": "https://github.com/anitab-org"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDc4NTM5MDg4",
+      "title": "UI: updated mentorship relation accepted mock and added it",
+      "url": "https://github.com/anitab-org/mentorship-backend/pull/828",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2020-09-03T10:46:08Z",
+      "number": 828,
+      "changedFiles": 1,
+      "additions": 0,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "mentorship-backend",
+        "url": "https://github.com/anitab-org/mentorship-backend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/47870548?v=4",
+          "login": "anitab-org",
+          "url": "https://github.com/anitab-org"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDc3NzcwMTIy",
+      "title": "Performed manual test and report of POST/login api",
+      "url": "https://github.com/anitab-org/mentorship-backend/pull/821",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2020-09-02T11:59:29Z",
+      "number": 821,
+      "changedFiles": 8,
+      "additions": 88,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "mentorship-backend",
+        "url": "https://github.com/anitab-org/mentorship-backend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/47870548?v=4",
+          "login": "anitab-org",
+          "url": "https://github.com/anitab-org"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDc3MTg1Mjc0",
+      "title": "docs:created reporting guidelines",
+      "url": "https://github.com/anitab-org/vms/pull/1074",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/11148726?u=aae052442d7b1c749bc1c96c54bdb792c68c9840&v=4",
+        "url": "https://github.com/isabelcosta",
+        "login": "isabelcosta"
+      },
+      "createdAt": "2020-09-01T16:03:45Z",
+      "number": 1074,
+      "changedFiles": 2,
+      "additions": 15,
+      "deletions": 14,
+      "baseRepository": {
+        "name": "vms",
+        "url": "https://github.com/anitab-org/vms",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/47870548?v=4",
+          "login": "anitab-org",
+          "url": "https://github.com/anitab-org"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDc2NTAzMTg1",
+      "title": "docs:improved Environment Variables guide",
+      "url": "https://github.com/anitab-org/mentorship-backend/pull/793",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/11148726?u=aae052442d7b1c749bc1c96c54bdb792c68c9840&v=4",
+        "url": "https://github.com/isabelcosta",
+        "login": "isabelcosta"
+      },
+      "createdAt": "2020-08-31T19:46:37Z",
+      "number": 793,
+      "changedFiles": 1,
+      "additions": 3,
+      "deletions": 3,
+      "baseRepository": {
+        "name": "mentorship-backend",
+        "url": "https://github.com/anitab-org/mentorship-backend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/47870548?v=4",
+          "login": "anitab-org",
+          "url": "https://github.com/anitab-org"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDY2Mjk5OTc3",
+      "title": "fix: added a code of conduct file",
+      "url": "https://github.com/devcpune/kaleidoscope/pull/12",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/42465795?u=c7c3fb9da2b24ebac8acc83ef7593a47789aab17&v=4",
+        "url": "https://github.com/AJV009",
+        "login": "AJV009"
+      },
+      "createdAt": "2020-08-11T19:09:43Z",
+      "number": 12,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "kaleidoscope",
+        "url": "https://github.com/devcpune/kaleidoscope",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/58566991?v=4",
+          "login": "devcpune",
+          "url": "https://github.com/devcpune"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDY0Nzk5NTQ0",
+      "title": "fix: changed DB config",
+      "url": "https://github.com/fbdevelopercircles/open-source-edu-bot/pull/102",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2020-08-07T20:19:40Z",
+      "number": 102,
+      "changedFiles": 6,
+      "additions": 24,
+      "deletions": 14,
+      "baseRepository": {
+        "name": "open-source-edu-bot",
+        "url": "https://github.com/fbdevelopercircles/open-source-edu-bot",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/38020791?v=4",
+          "login": "fbdevelopercircles",
+          "url": "https://github.com/fbdevelopercircles"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDY0NzQxOTUw",
+      "title": "fix: modified setup in Readme.md",
+      "url": "https://github.com/fbdevelopercircles/open-source-edu-bot/pull/101",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/23649434?u=04d6078a0ecbc92bfdd96e32419f17387524781a&v=4",
+        "url": "https://github.com/hoduchieu01",
+        "login": "hoduchieu01"
+      },
+      "createdAt": "2020-08-07T18:01:30Z",
+      "number": 101,
+      "changedFiles": 1,
+      "additions": 18,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "open-source-edu-bot",
+        "url": "https://github.com/fbdevelopercircles/open-source-edu-bot",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/38020791?v=4",
+          "login": "fbdevelopercircles",
+          "url": "https://github.com/fbdevelopercircles"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDYzMDA3NTc4",
+      "title": "fix: removed full-stops after emojis ",
+      "url": "https://github.com/fbdevelopercircles/open-source-edu-bot/pull/97",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/2836850?u=81685728c1db8ffb502e922f7f21a039819f2e73&v=4",
+        "url": "https://github.com/aboullaite",
+        "login": "aboullaite"
+      },
+      "createdAt": "2020-08-04T21:02:14Z",
+      "number": 97,
+      "changedFiles": 4,
+      "additions": 12,
+      "deletions": 12,
+      "baseRepository": {
+        "name": "open-source-edu-bot",
+        "url": "https://github.com/fbdevelopercircles/open-source-edu-bot",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/38020791?v=4",
+          "login": "fbdevelopercircles",
+          "url": "https://github.com/fbdevelopercircles"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDYyMzM4ODQw",
+      "title": "Update links in 2 files",
+      "url": "https://github.com/fbdevelopercircles/open-source-edu-bot/pull/94",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/2836850?u=81685728c1db8ffb502e922f7f21a039819f2e73&v=4",
+        "url": "https://github.com/aboullaite",
+        "login": "aboullaite"
+      },
+      "createdAt": "2020-08-03T18:47:32Z",
+      "number": 94,
+      "changedFiles": 2,
+      "additions": 2,
+      "deletions": 4,
+      "baseRepository": {
+        "name": "open-source-edu-bot",
+        "url": "https://github.com/fbdevelopercircles/open-source-edu-bot",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/38020791?v=4",
+          "login": "fbdevelopercircles",
+          "url": "https://github.com/fbdevelopercircles"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDYxODYxNDc4",
+      "title": "fix: added getting started docs",
+      "url": "https://github.com/fbdevelopercircles/open-source-edu-bot/pull/93",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/2836850?u=81685728c1db8ffb502e922f7f21a039819f2e73&v=4",
+        "url": "https://github.com/aboullaite",
+        "login": "aboullaite"
+      },
+      "createdAt": "2020-08-02T21:15:00Z",
+      "number": 93,
+      "changedFiles": 1,
+      "additions": 17,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "open-source-edu-bot",
+        "url": "https://github.com/fbdevelopercircles/open-source-edu-bot",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/38020791?v=4",
+          "login": "fbdevelopercircles",
+          "url": "https://github.com/fbdevelopercircles"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDYxODUzNDI1",
+      "title": "fix: added getting started guide",
+      "url": "https://github.com/fbdevelopercircles/open-source-edu-bot/pull/91",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2020-08-02T20:05:50Z",
+      "number": 91,
+      "changedFiles": 1,
+      "additions": 22,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "open-source-edu-bot",
+        "url": "https://github.com/fbdevelopercircles/open-source-edu-bot",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/38020791?v=4",
+          "login": "fbdevelopercircles",
+          "url": "https://github.com/fbdevelopercircles"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDU5NTY4NDcy",
+      "title": "fix: Added chatbot link in Readme.md",
+      "url": "https://github.com/fbdevelopercircles/open-source-edu-bot/pull/70",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/2836850?u=81685728c1db8ffb502e922f7f21a039819f2e73&v=4",
+        "url": "https://github.com/aboullaite",
+        "login": "aboullaite"
+      },
+      "createdAt": "2020-07-30T20:19:17Z",
+      "number": 70,
+      "changedFiles": 1,
+      "additions": 4,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "open-source-edu-bot",
+        "url": "https://github.com/fbdevelopercircles/open-source-edu-bot",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/38020791?v=4",
+          "login": "fbdevelopercircles",
+          "url": "https://github.com/fbdevelopercircles"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDU5NTYwNzMx",
+      "title": "fix: Changed errors and typos for Hindi translation",
+      "url": "https://github.com/fbdevelopercircles/open-source-edu-bot/pull/69",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/2836850?u=81685728c1db8ffb502e922f7f21a039819f2e73&v=4",
+        "url": "https://github.com/aboullaite",
+        "login": "aboullaite"
+      },
+      "createdAt": "2020-07-30T20:09:11Z",
+      "number": 69,
+      "changedFiles": 1,
+      "additions": 13,
+      "deletions": 13,
+      "baseRepository": {
+        "name": "open-source-edu-bot",
+        "url": "https://github.com/fbdevelopercircles/open-source-edu-bot",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/38020791?v=4",
+          "login": "fbdevelopercircles",
+          "url": "https://github.com/fbdevelopercircles"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDU5MDMxNTk1",
+      "title": "fix:Improved ENV syntax",
+      "url": "https://github.com/fbdevelopercircles/open-source-edu-bot/pull/67",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/2127223?u=83c4eeade034c0d9f588c4afe1612bff05f48db3&v=4",
+        "url": "https://github.com/elinguiuriel",
+        "login": "elinguiuriel"
+      },
+      "createdAt": "2020-07-30T09:54:02Z",
+      "number": 67,
+      "changedFiles": 1,
+      "additions": 6,
+      "deletions": 6,
+      "baseRepository": {
+        "name": "open-source-edu-bot",
+        "url": "https://github.com/fbdevelopercircles/open-source-edu-bot",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/38020791?v=4",
+          "login": "fbdevelopercircles",
+          "url": "https://github.com/fbdevelopercircles"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDU3MzgwMzQw",
+      "title": "Updated contributors.yaml",
+      "url": "https://github.com/fbdevelopercircles/open-source-edu-bot/pull/55",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/2836850?u=81685728c1db8ffb502e922f7f21a039819f2e73&v=4",
+        "url": "https://github.com/aboullaite",
+        "login": "aboullaite"
+      },
+      "createdAt": "2020-07-27T20:18:08Z",
+      "number": 55,
+      "changedFiles": 1,
+      "additions": 4,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "open-source-edu-bot",
+        "url": "https://github.com/fbdevelopercircles/open-source-edu-bot",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/38020791?v=4",
+          "login": "fbdevelopercircles",
+          "url": "https://github.com/fbdevelopercircles"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDU3MzY5MjYw",
+      "title": "fix:Deleted export env from Readme.md",
+      "url": "https://github.com/fbdevelopercircles/open-source-edu-bot/pull/54",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/2836850?u=81685728c1db8ffb502e922f7f21a039819f2e73&v=4",
+        "url": "https://github.com/aboullaite",
+        "login": "aboullaite"
+      },
+      "createdAt": "2020-07-27T19:54:23Z",
+      "number": 54,
+      "changedFiles": 1,
+      "additions": 0,
+      "deletions": 15,
+      "baseRepository": {
+        "name": "open-source-edu-bot",
+        "url": "https://github.com/fbdevelopercircles/open-source-edu-bot",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/38020791?v=4",
+          "login": "fbdevelopercircles",
+          "url": "https://github.com/fbdevelopercircles"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDU3MzYzMTky",
+      "title": "Fix: refactor HTTP error codes DELETE /mentorship_relation/{request_id}",
+      "url": "https://github.com/anitab-org/mentorship-backend/pull/700",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/11148726?u=aae052442d7b1c749bc1c96c54bdb792c68c9840&v=4",
+        "url": "https://github.com/isabelcosta",
+        "login": "isabelcosta"
+      },
+      "createdAt": "2020-07-27T19:40:45Z",
+      "number": 700,
+      "changedFiles": 4,
+      "additions": 10,
+      "deletions": 10,
+      "baseRepository": {
+        "name": "mentorship-backend",
+        "url": "https://github.com/anitab-org/mentorship-backend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/47870548?v=4",
+          "login": "anitab-org",
+          "url": "https://github.com/anitab-org"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDU2NzkzOTY3",
+      "title": "fix: Improved installation section of Readme.md",
+      "url": "https://github.com/fbdevelopercircles/open-source-edu-bot/pull/50",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/2836850?u=81685728c1db8ffb502e922f7f21a039819f2e73&v=4",
+        "url": "https://github.com/aboullaite",
+        "login": "aboullaite"
+      },
+      "createdAt": "2020-07-26T19:24:43Z",
+      "number": 50,
+      "changedFiles": 1,
+      "additions": 13,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "open-source-edu-bot",
+        "url": "https://github.com/fbdevelopercircles/open-source-edu-bot",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/38020791?v=4",
+          "login": "fbdevelopercircles",
+          "url": "https://github.com/fbdevelopercircles"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDU2NjM5NjEw",
+      "title": "fix:Reword prompt that asks about version control",
+      "url": "https://github.com/fbdevelopercircles/open-source-edu-bot/pull/47",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/2836850?u=81685728c1db8ffb502e922f7f21a039819f2e73&v=4",
+        "url": "https://github.com/aboullaite",
+        "login": "aboullaite"
+      },
+      "createdAt": "2020-07-25T17:02:08Z",
+      "number": 47,
+      "changedFiles": 1,
+      "additions": 4,
+      "deletions": 4,
+      "baseRepository": {
+        "name": "open-source-edu-bot",
+        "url": "https://github.com/fbdevelopercircles/open-source-edu-bot",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/38020791?v=4",
+          "login": "fbdevelopercircles",
+          "url": "https://github.com/fbdevelopercircles"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDU0NjMzNDg2",
+      "title": "fix: Removed unneeded punctuation in Git install prompt",
+      "url": "https://github.com/fbdevelopercircles/open-source-edu-bot/pull/40",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/2836850?u=81685728c1db8ffb502e922f7f21a039819f2e73&v=4",
+        "url": "https://github.com/aboullaite",
+        "login": "aboullaite"
+      },
+      "createdAt": "2020-07-21T17:02:53Z",
+      "number": 40,
+      "changedFiles": 1,
+      "additions": 2,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "open-source-edu-bot",
+        "url": "https://github.com/fbdevelopercircles/open-source-edu-bot",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/38020791?v=4",
+          "login": "fbdevelopercircles",
+          "url": "https://github.com/fbdevelopercircles"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDU0NjI3MDk2",
+      "title": "fix: Removed unneeded punctuation in Git install prompt",
+      "url": "https://github.com/fbdevelopercircles/open-source-edu-bot/pull/39",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2020-07-21T16:50:25Z",
+      "number": 39,
+      "changedFiles": 1,
+      "additions": 2,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "open-source-edu-bot",
+        "url": "https://github.com/fbdevelopercircles/open-source-edu-bot",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/38020791?v=4",
+          "login": "fbdevelopercircles",
+          "url": "https://github.com/fbdevelopercircles"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDUyNjk4MTQ4",
+      "title": "Fix: refactor HTTP error codes PUT /mentorship_relation/{request_id}/cancel",
+      "url": "https://github.com/anitab-org/mentorship-backend/pull/686",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2020-07-19T18:16:51Z",
+      "number": 686,
+      "changedFiles": 4,
+      "additions": 8,
+      "deletions": 8,
+      "baseRepository": {
+        "name": "mentorship-backend",
+        "url": "https://github.com/anitab-org/mentorship-backend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/47870548?v=4",
+          "login": "anitab-org",
+          "url": "https://github.com/anitab-org"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDUxODAwMDU1",
+      "title": "Updated DevCGlobalDirectory.md",
+      "url": "https://github.com/fbdevelopercircles/FbDevcCommunityContent/pull/72",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30334776?u=a163b8f503cdfad7b0a218ed7ffbf9bdda438d5b&v=4",
+        "url": "https://github.com/BolajiAyodeji",
+        "login": "BolajiAyodeji"
+      },
+      "createdAt": "2020-07-18T08:30:42Z",
+      "number": 72,
+      "changedFiles": 1,
+      "additions": 53,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "FbDevcCommunityContent",
+        "url": "https://github.com/fbdevelopercircles/FbDevcCommunityContent",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/38020791?v=4",
+          "login": "fbdevelopercircles",
+          "url": "https://github.com/fbdevelopercircles"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDUxMjA0NzE5",
+      "title": "Updated DevCGlobalDirectory.md",
+      "url": "https://github.com/fbdevelopercircles/FbDevcCommunityContent/pull/66",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2020-07-17T15:29:49Z",
+      "number": 66,
+      "changedFiles": 1,
+      "additions": 38,
+      "deletions": 5,
+      "baseRepository": {
+        "name": "FbDevcCommunityContent",
+        "url": "https://github.com/fbdevelopercircles/FbDevcCommunityContent",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/38020791?v=4",
+          "login": "fbdevelopercircles",
+          "url": "https://github.com/fbdevelopercircles"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDUxMTk5MjQx",
+      "title": "Updated DevCGlobalDirectory.md",
+      "url": "https://github.com/fbdevelopercircles/FbDevcCommunityContent/pull/65",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2020-07-17T15:22:13Z",
+      "number": 65,
+      "changedFiles": 1,
+      "additions": 38,
+      "deletions": 6,
+      "baseRepository": {
+        "name": "FbDevcCommunityContent",
+        "url": "https://github.com/fbdevelopercircles/FbDevcCommunityContent",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/38020791?v=4",
+          "login": "fbdevelopercircles",
+          "url": "https://github.com/fbdevelopercircles"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDQ5NTUwNDg5",
+      "title": " fix: refractor HTTP error codes PUT/mentorship_relation/{request_id}/reject",
+      "url": "https://github.com/anitab-org/mentorship-backend/pull/671",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/11148726?u=aae052442d7b1c749bc1c96c54bdb792c68c9840&v=4",
+        "url": "https://github.com/isabelcosta",
+        "login": "isabelcosta"
+      },
+      "createdAt": "2020-07-15T15:16:36Z",
+      "number": 671,
+      "changedFiles": 3,
+      "additions": 9,
+      "deletions": 9,
+      "baseRepository": {
+        "name": "mentorship-backend",
+        "url": "https://github.com/anitab-org/mentorship-backend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/47870548?v=4",
+          "login": "anitab-org",
+          "url": "https://github.com/anitab-org"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDQ3NjE1NTcx",
+      "title": "fix: Corrected github link on Contact Page",
+      "url": "https://github.com/anitab-org/portal/pull/582",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/42520146?u=a455bd8e195fcdd8a3c41750a11a3acfd7f69eb4&v=4",
+        "url": "https://github.com/sakshi1499",
+        "login": "sakshi1499"
+      },
+      "createdAt": "2020-07-10T19:48:30Z",
+      "number": 582,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "portal",
+        "url": "https://github.com/anitab-org/portal",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/47870548?v=4",
+          "login": "anitab-org",
+          "url": "https://github.com/anitab-org"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDM3NTk3NjA5",
+      "title": "Changed _repr_ string format to f-strings",
+      "url": "https://github.com/anitab-org/mentorship-backend/pull/651",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/11148726?u=aae052442d7b1c749bc1c96c54bdb792c68c9840&v=4",
+        "url": "https://github.com/isabelcosta",
+        "login": "isabelcosta"
+      },
+      "createdAt": "2020-06-21T20:37:21Z",
+      "number": 651,
+      "changedFiles": 3,
+      "additions": 4,
+      "deletions": 8,
+      "baseRepository": {
+        "name": "mentorship-backend",
+        "url": "https://github.com/anitab-org/mentorship-backend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/47870548?v=4",
+          "login": "anitab-org",
+          "url": "https://github.com/anitab-org"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDM3MjY5Mjkz",
+      "title": "docs: Update README file",
+      "url": "https://github.com/anitab-org/anitab-forms-backend/pull/24",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/43119923?u=e0c872268278782a9140564ff016060460ef1062&v=4",
+        "url": "https://github.com/bismitaguha",
+        "login": "bismitaguha"
+      },
+      "createdAt": "2020-06-19T19:46:11Z",
+      "number": 24,
+      "changedFiles": 1,
+      "additions": 4,
+      "deletions": 3,
+      "baseRepository": {
+        "name": "anitab-forms-backend",
+        "url": "https://github.com/anitab-org/anitab-forms-backend",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/47870548?v=4",
+          "login": "anitab-org",
+          "url": "https://github.com/anitab-org"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDMzNzM5NTMz",
+      "title": "docs: update Commit Message Style guide link",
+      "url": "https://github.com/anitab-org/mentorship-flutter/pull/98",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/40357511?u=588042f56a39a6523e5133209e9fa454cf700c1d&v=4",
+        "url": "https://github.com/bartekpacia",
+        "login": "bartekpacia"
+      },
+      "createdAt": "2020-06-12T15:13:56Z",
+      "number": 98,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "mentorship-flutter",
+        "url": "https://github.com/anitab-org/mentorship-flutter",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/47870548?v=4",
+          "login": "anitab-org",
+          "url": "https://github.com/anitab-org"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDMxMzkwMjc3",
+      "title": "Update README with app features",
+      "url": "https://github.com/anitab-org/mentorship-android/pull/717",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/11148726?u=aae052442d7b1c749bc1c96c54bdb792c68c9840&v=4",
+        "url": "https://github.com/isabelcosta",
+        "login": "isabelcosta"
+      },
+      "createdAt": "2020-06-08T20:51:46Z",
+      "number": 717,
+      "changedFiles": 1,
+      "additions": 13,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "mentorship-android",
+        "url": "https://github.com/anitab-org/mentorship-android",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/47870548?v=4",
+          "login": "anitab-org",
+          "url": "https://github.com/anitab-org"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDIzMTY1NDc0",
+      "title": "Added descriptions for home page",
+      "url": "https://github.com/anitab-org/anitab-org.github.io/pull/58",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/31966073?u=337ed2f1699be214b27806aa69c1ba015dd66222&v=4",
+        "url": "https://github.com/annabauza",
+        "login": "annabauza"
+      },
+      "createdAt": "2020-05-26T12:08:29Z",
+      "number": 58,
+      "changedFiles": 1,
+      "additions": 76,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "anitab-org.github.io",
+        "url": "https://github.com/anitab-org/anitab-org.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/47870548?v=4",
+          "login": "anitab-org",
+          "url": "https://github.com/anitab-org"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NDIyMzE5NjM4",
+      "title": "Added short descriptions for home page",
+      "url": "https://github.com/anitab-org/anitab-org.github.io/pull/56",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2020-05-23T19:55:00Z",
+      "number": 56,
+      "changedFiles": 3,
+      "additions": 213,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "anitab-org.github.io",
+        "url": "https://github.com/anitab-org/anitab-org.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/47870548?v=4",
+          "login": "anitab-org",
+          "url": "https://github.com/anitab-org"
+        }
+      }
+    }
+  ],
+  "merged": 43,
+  "open": 5,
+  "totalCount": 67
+}

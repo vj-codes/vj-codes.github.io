@@ -183,7 +183,7 @@ const experience = {
   subtitle:
     "Volunteership, Programs I've Particpated in, Acheivements, Internships and Work ",
   description:
-    "I am involved with tech communities like Facebook Developer Cirlce: Pune, Google Developer Groups: Pune, AnitaB.org Open Source and love to participate and volunteer for various programs and events. ",
+    "I am involved with tech communities like Facebook Developer Circle: Pune, Google Developer Groups: Pune, AnitaB.org Open Source and love to participate and volunteer for various programs and events. ",
   header_image_path: "experience.svg",
   sections: [
     {

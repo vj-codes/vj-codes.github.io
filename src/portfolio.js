@@ -183,7 +183,7 @@ const experience = {
   subtitle:
     "Volunteership, Programs I've Particpated in, Acheivements, Internships and Work ",
   description:
-    "I am involved with tech communities like Facebook Developer Cirlce: Pune, Google Developer Groups: Pune, AnitaB.org Open Source and love to participate and volunteer for various programs and events. ",
+    "I am involved with tech communities like Meta Developer Cirlce: Pune, Google Developer Groups: Pune, AnitaB.org Open Source and love to participate and volunteer for various programs and events. ",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -302,18 +302,18 @@ const experience = {
       experiences: [
         {
           title: "Open Source Ninja",
-          company: "Facebook Developer Circles : Pune",
+          company: "Meta Developer Circles : Pune",
           company_url: "https://developers.facebook.com/developercircles/",
           logo_path: "fb-logo.png",
           duration: "2020",
           location: "Pune",
           description:
-            "Vaishnavi Joshi has been awarded the title of The Open Source Ninja of the year award for the consistent contributions to open source projects from the Facebook community. ",
+            "Vaishnavi Joshi has been awarded the title of The Open Source Ninja of the year award for the consistent contributions to open source projects from the Meta Developer community. ",
           color: "#9b1578",
         },
         {
           title: "Advocate of Diversity",
-          company: "Facebook Developer Circle : Pune",
+          company: "Meta Developer Circle : Pune",
           company_url: "https://developers.facebook.com/developercircles/",
           logo_path: "fb-logo.png",
           duration: "2020",

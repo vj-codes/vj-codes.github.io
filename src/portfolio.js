@@ -228,6 +228,50 @@ const experience = {
       title: "Programs",
       experiences: [
         {
+          title: "Wild Hacks 2.0",
+          company: "Major Hacking League",
+          company_url: "https://hacktoberfest.digitalocean.com/",
+          logo_path: "hacktoberfest-logo.jpg",
+          duration: "Oct 1,2020 - Oct 31,2020",
+          location: "Remote",
+          description:
+            "Participated and completed my first Hacktoberfest in October 2020.",
+          color: "#0071C5",
+        },
+        {
+          title: "Hacktoberfest 2021",
+          company: "Major Hacking League",
+          company_url: "https://hacktoberfest.digitalocean.com/",
+          logo_path: "hacktoberfest-logo.jpg",
+          duration: "Oct 1,2020 - Oct 31,2020",
+          location: "Remote",
+          description:
+            "Participated and completed my first Hacktoberfest in October 2020.",
+          color: "#0071C5",
+        },
+        {
+          title: "Selfie Hacks",
+          company: "Major Hacking League",
+          company_url: "https://hacktoberfest.digitalocean.com/",
+          logo_path: "hacktoberfest-logo.jpg",
+          duration: "Oct 1,2020 - Oct 31,2020",
+          location: "Remote",
+          description:
+            "Participated and completed my first Hacktoberfest in October 2020.",
+          color: "#0071C5",
+        },
+        {
+          title: "Hacky Birthday MLH",
+          company: "Major Hacking League",
+          company_url: "https://hacktoberfest.digitalocean.com/",
+          logo_path: "hacktoberfest-logo.jpg",
+          duration: "Oct 1,2020 - Oct 31,2020",
+          location: "Remote",
+          description:
+            "Participated and completed my first Hacktoberfest in October 2020.",
+          color: "#0071C5",
+        },
+        {
           title: "MLH INIT 2022",
           company: "Major Hacking League",
           company_url: "https://hacktoberfest.digitalocean.com/",
